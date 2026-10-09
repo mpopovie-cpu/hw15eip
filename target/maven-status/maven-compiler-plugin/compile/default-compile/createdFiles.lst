@@ -1,0 +1,6 @@
+ru/otus/hw/eip/service/OrderProcessingService.class
+ru/otus/hw/eip/domain/CoffeeOrder$CoffeeOrderBuilder.class
+ru/otus/hw/eip/domain/CoffeeOrder.class
+ru/otus/hw/eip/EipApplication.class
+ru/otus/hw/eip/config/IntegrationConfig.class
+ru/otus/hw/eip/gateway/OrderGateway.class
